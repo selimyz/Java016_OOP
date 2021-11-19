@@ -4,7 +4,8 @@ import java.util.Date;
 
 public class Sistem {
     // Erişim Belirteçleri
-    // private değişkene dışarıdan erişimi keser.
+    // private, değişkene dışarıdan erişimi keser.
+
     private String baglanti = "Ankara";
 
     public void setBaglanti(String yeniBaglanti, String userName) {

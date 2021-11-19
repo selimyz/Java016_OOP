@@ -17,6 +17,7 @@ public class Main {
         balik.hareketEt();
         kus.hareketEt();
         kus.yemekYedir();
+        balik.hareketEt();
 
     }
 }

@@ -1,6 +1,5 @@
 package com.selim.Encapsulation;
 
-import java.sql.Time;
 import java.util.Date;
 
 public class Sistem {

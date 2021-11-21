@@ -6,17 +6,17 @@ import java.util.List;
 public class PersonelKayitIslemleri implements ICrud {
 
     @Override
-    public void save(Object obje) {
+    public void save(Object o) {
 
     }
 
     @Override
-    public void update(Object obje) {
+    public void update(Object o) {
 
     }
 
     @Override
-    public void delete(Object obje) {
+    public void delete(int id) {
 
     }
 

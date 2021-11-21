@@ -6,18 +6,17 @@ import java.util.List;
 public class MusteriKayitIslemleri implements ICrud{
 
     @Override
-    public void save(Object obje) {
-        System.out.println("müşteri kayıt edildi.");
+    public void save(Object o) {
+        System.out.println("Müşteri Kayıt Edildi");
+    }
+
+    @Override
+    public void update(Object o) {
 
     }
 
     @Override
-    public void update(Object obje) {
-
-    }
-
-    @Override
-    public void delete(Object obje) {
+    public void delete(int id) {
 
     }
 

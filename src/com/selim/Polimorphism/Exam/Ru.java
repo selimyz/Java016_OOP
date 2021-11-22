@@ -21,4 +21,24 @@ public class Ru implements Dil{
     public String Bilgisayar() {
         return "компьютер";
     }
+
+    @Override
+    public String Giyim() {
+        return "одежда";
+    }
+
+    @Override
+    public String Spor() {
+        return null;
+    }
+
+    @Override
+    public String Kişisel() {
+        return null;
+    }
+
+    @Override
+    public String DigerUrunler() {
+        return null;
+    }
 }

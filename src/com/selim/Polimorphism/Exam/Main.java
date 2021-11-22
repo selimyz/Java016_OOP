@@ -38,7 +38,7 @@ public class Main {
         System.out.println();
         System.out.println(dil.Bilgisayar());
         System.out.println("----------");
-        System.out.println("Giyim");
+        System.out.println(dil.Giyim());
         System.out.println("----------");
         System.out.println("Spor");
         System.out.println("----------");

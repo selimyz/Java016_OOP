@@ -21,4 +21,24 @@ public class Fr implements Dil{
     public String Bilgisayar() {
         return "ordinateur";
     }
+
+    @Override
+    public String Giyim() {
+        return "vêtements";
+    }
+
+    @Override
+    public String Spor() {
+        return null;
+    }
+
+    @Override
+    public String Kişisel() {
+        return null;
+    }
+
+    @Override
+    public String DigerUrunler() {
+        return null;
+    }
 }

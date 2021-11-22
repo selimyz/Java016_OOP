@@ -12,7 +12,7 @@ public class MusteriKayitIslemleri implements ICrud{
 
     @Override
     public void update(Object o) {
-
+        System.out.println("Müşteri kayıtları değiştirildi");
     }
 
     @Override

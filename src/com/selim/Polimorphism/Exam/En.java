@@ -21,4 +21,24 @@ public class En implements Dil {
     public String Bilgisayar() {
         return "Computer";
     }
+
+    @Override
+    public String Giyim() {
+        return "clothes";
+    }
+
+    @Override
+    public String Spor() {
+        return null;
+    }
+
+    @Override
+    public String Kişisel() {
+        return null;
+    }
+
+    @Override
+    public String DigerUrunler() {
+        return null;
+    }
 }

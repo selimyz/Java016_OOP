@@ -21,4 +21,24 @@ public class De implements Dil {
     public String Bilgisayar() {
         return "Rechner";
     }
+
+    @Override
+    public String Giyim() {
+        return "Kleider";
+    }
+
+    @Override
+    public String Spor() {
+        return null;
+    }
+
+    @Override
+    public String Kişisel() {
+        return null;
+    }
+
+    @Override
+    public String DigerUrunler() {
+        return null;
+    }
 }

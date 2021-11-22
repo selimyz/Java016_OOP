@@ -21,4 +21,24 @@ public class Tr implements Dil {
     public String Bilgisayar() {
         return "Bilgisayar";
     }
+
+    @Override
+    public String Giyim() {
+        return "Giyim";
+    }
+
+    @Override
+    public String Spor() {
+        return null;
+    }
+
+    @Override
+    public String Kişisel() {
+        return null;
+    }
+
+    @Override
+    public String DigerUrunler() {
+        return null;
+    }
 }

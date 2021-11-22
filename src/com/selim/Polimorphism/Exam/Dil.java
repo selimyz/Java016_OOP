@@ -9,4 +9,12 @@ public interface Dil {
     String Hakkimizda();
 
     String Bilgisayar();
+
+    String Giyim();
+
+    String Spor();
+
+    String Kişisel();
+
+    String DigerUrunler();
 }

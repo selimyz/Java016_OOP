@@ -16,4 +16,9 @@ public class Tr implements Dil {
     public String Hakkimizda() {
         return "Hakkımızda";
     }
+
+    @Override
+    public String Bilgisayar() {
+        return "Bilgisayar";
+    }
 }

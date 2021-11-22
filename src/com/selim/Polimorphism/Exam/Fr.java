@@ -16,4 +16,9 @@ public class Fr implements Dil{
     public String Hakkimizda() {
         return "à propos de nous";
     }
+
+    @Override
+    public String Bilgisayar() {
+        return "ordinateur";
+    }
 }

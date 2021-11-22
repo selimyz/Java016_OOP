@@ -11,9 +11,11 @@ public class Main {
 
         kedi1.ad = "mavi göz";
         kedi2.ad = "sinirli";
+
         Kedi.ad = "BAMBAŞKA BİR KEDİ";
+
         // Tüm tanımlarımızın kullanılabilmesi için bellekte adreslenmesi
-        // ve o adresi işaret eden değişlken adı tanımına ihtiyaç vardır.
+        // ve o adresi işaret eden değişken adı tanımına ihtiyaç vardır.
 
         System.out.println("1. Kedi adı: " + kedi1.ad);
         System.out.println("2. Kedi adı: " + kedi2.ad);

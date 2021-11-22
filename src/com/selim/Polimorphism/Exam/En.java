@@ -16,4 +16,9 @@ public class En implements Dil {
     public String Hakkimizda() {
         return "About";
     }
+
+    @Override
+    public String Bilgisayar() {
+        return "Computer";
+    }
 }

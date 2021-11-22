@@ -6,17 +6,25 @@ public class Main {
 
         KucukBas kb = new KucukBas();
         kb.HayvanlariBesleyin();
+
         Kumes km = new Kumes();
         km.HayvanlariBesleyin();
+
         BuyukBas bb = new BuyukBas();
         bb.HayvanlariBesleyin();
+
         //----------------------------
+        System.out.println("********************");
+
         Aga aga = new Aga();
         aga.HayvanlariBesleyin();
+
         aga = new KucukBas();
         aga.HayvanlariBesleyin();
+
         aga=new Kumes();
         aga.HayvanlariBesleyin();
+
         aga=new BuyukBas();
         aga.HayvanlariBesleyin();
     }

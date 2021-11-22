@@ -12,6 +12,6 @@ public class Main {
         Sayac sayac = new Sayac();
         System.out.println("Ana Sayfa   : " + sayac.anasayfa);
         System.out.println("Alt Sayfa   : " + sayac.altsayfalar);
-        System.out.println("Tüm Gelenler: " + sayac.tumgelenler);
+        System.out.println("Tüm Gelenler: " + (sayac.altsayfalar+sayac.anasayfa));
     }
 }

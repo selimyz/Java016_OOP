@@ -16,4 +16,9 @@ public class Ru implements Dil{
     public String Hakkimizda() {
         return "о нас";
     }
+
+    @Override
+    public String Bilgisayar() {
+        return "компьютер";
+    }
 }

@@ -7,4 +7,6 @@ public interface Dil {
     String AnaSayfa();
 
     String Hakkimizda();
+
+    String Bilgisayar();
 }

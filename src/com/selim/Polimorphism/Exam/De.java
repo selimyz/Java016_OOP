@@ -16,4 +16,9 @@ public class De implements Dil {
     public String Hakkimizda() {
         return "über uns";
     }
+
+    @Override
+    public String Bilgisayar() {
+        return "Rechner";
+    }
 }
